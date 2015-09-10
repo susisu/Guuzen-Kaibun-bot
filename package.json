@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/susisu/Guuzen-Kaibun-bot/issues"
   },
-  "homepage": "https://github.com/susisu/Guuzen-Kaibun-bot"
+  "homepage": "https://github.com/susisu/Guuzen-Kaibun-bot",
+  "dependencies": {
+    "avocore": "git://github.com/susisu/Avocore.git"
+  }
 }
